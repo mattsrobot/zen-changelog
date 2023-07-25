@@ -14,7 +14,7 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
   return (
     <>
       <Page
-        title="Changelog for zenshop"
+        title="Changelog"
         description={
           <>
             <p>

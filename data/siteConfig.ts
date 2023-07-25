@@ -2,7 +2,7 @@ import type { SiteConfig } from "@/lib/types";
 const siteConfig: SiteConfig = {
   avatar: "/avatar.png",
   siteUrl: "https://changelog.zenshop.app",
-  siteName: "Changelog | zenshop",
+  siteName: "zenshop",
   siteDescription:
     "Changelog | zenshop",
   siteThumbnail: "https://www.zenshop.app/images/landing/twitter-card.png",
